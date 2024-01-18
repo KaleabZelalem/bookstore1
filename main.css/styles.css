@@ -1,0 +1,17 @@
+#book-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    margin-bottom: 30px;
+    width: 18rem;
+}
+.card {
+    width: 300px; /* increase the width of the card */
+    height: 400px; /* increase the height of the card */
+  }
+  
+  .card-body {
+    padding: 20px; /* adjust the padding to fit the new size */
+  }
